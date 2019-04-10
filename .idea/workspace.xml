@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/exercises/clouds.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/clouds.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/equalizeArr.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/equalizeArr.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +20,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/appleStock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="478">
               <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/clouds.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -42,29 +50,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/equalizeArr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/clouds.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/equalizeArr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" lean-forward="true" selection-start-column="12" selection-end-column="30" />
+            <state relative-caret-position="474">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -87,10 +86,10 @@
       <list>
         <option value="$PROJECT_DIR$/appleStock.js" />
         <option value="$PROJECT_DIR$/exercises/appleStock.js" />
-        <option value="$PROJECT_DIR$/exercises/equalizeArr.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/exercises/clouds.js" />
+        <option value="$PROJECT_DIR$/exercises/equalizeArr.js" />
       </list>
     </option>
   </component>
@@ -182,12 +181,12 @@
       <workItem from="1554827267959" duration="3285000" />
       <workItem from="1554831656188" duration="579000" />
       <workItem from="1554856372716" duration="405000" />
-      <workItem from="1554857337073" duration="2255000" />
+      <workItem from="1554857337073" duration="2564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6524000" />
+    <option name="totallyTimeSpent" value="6833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1007" extended-state="0" />
@@ -216,9 +215,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/appleStock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="478">
           <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -226,17 +232,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/exercises/clouds.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/equalizeArr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="12" selection-end-column="30" />
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -250,10 +249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/clouds.js">
+    <entry file="file://$PROJECT_DIR$/exercises/equalizeArr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

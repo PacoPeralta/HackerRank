@@ -1,5 +1,5 @@
 // Problem: Equalize the Array
-export function equalizeArr() {
+function equalizeArr() {
     const arr = [3,3,2,1,3];
     let searchValues = [...new Set(arr)];
     let removeElements = [];

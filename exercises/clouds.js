@@ -1,5 +1,5 @@
 // Problem: Jumping on the Clouds
-export function jumpingClouds() {
+function jumpingClouds() {
     const clouds = [0,0,1,0,0,1,0,0];
     let jumpPath = [];
     let totalJumps = -1;
