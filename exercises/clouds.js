@@ -1,6 +1,6 @@
-var clouds = [0,0,1,0,0,1,0,0];
 // Problem: Jumping on the Clouds
-function jumpingClouds(clouds) {
+export function jumpingClouds() {
+    const clouds = [0,0,1,0,0,1,0,0];
     let jumpPath = [];
     let totalJumps = -1;
     for(let index = 0; index < clouds.length; index += 2) {
@@ -13,9 +13,9 @@ function jumpingClouds(clouds) {
     if(jumpPath.pop() !== clouds.length -1) {
         totalJumps++
     }
-    console.log(totalJumps);
+    return totalJumps;
 }
 
-console.time('clouds');
-jumpingClouds(clouds);
-console.timeEnd('clouds');
+//console.time('clouds');
+export default jumpingClouds;
+//console.timeEnd('clouds');
