@@ -5,6 +5,7 @@ import mostRepeated from './exercises/repeatedValue.js';
 import result from './exercises/ticketOOP.js';
 import longestNoRep from './exercises/longestNoRep.js';
 import binarySearch from './exercises/binarySearch.js';
+import getMaxSum from './exercises/maxSumContiguousSubArr.js';
 
 console.log(appleStock());
 console.log(equalizeArr());
@@ -13,3 +14,4 @@ console.log(mostRepeated());
 console.log(result());
 console.log(longestNoRep());
 console.log(binarySearch());
+console.log(getMaxSum());
