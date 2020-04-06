@@ -7,14 +7,14 @@ function moveZeroes() {
         if(index === lastIteration) {
             return data;
         }
-        if (data[index] === 0) {
-            data.splice(index, 1);
-            data.push(0);
-            index = 0;
-            lastIteration = lastIteration - 1;
+        if (data[index] !== 0) {
+            index = index + 1;
             return moveZero();
         }
-        index = index + 1;
+        data.splice(index, 1);
+        data.push(0);
+        index = 0;
+        lastIteration = lastIteration - 1;
         return moveZero();
     }
     return moveZero();
