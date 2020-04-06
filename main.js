@@ -9,6 +9,7 @@ import getMaxSum from './exercises/maxSumContiguousSubArr.js';
 import safePath from './exercises/safePath.js';
 import getClock from './exercises/hourglass.js';
 import getSmallestMissing from './exercises/smallestPositiveMissing.js';
+import moveZeroesToEnd from './exercises/moveZerosToEnd.js';
 
 console.log(appleStock());
 console.log(equalizeArr());
@@ -21,3 +22,4 @@ console.log(getMaxSum());
 console.log(safePath());
 console.log(getClock());
 console.log(getSmallestMissing());
+console.log(moveZeroesToEnd());
