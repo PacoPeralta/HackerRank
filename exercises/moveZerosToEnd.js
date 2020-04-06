@@ -4,7 +4,6 @@ function moveZeroes() {
     let lastIteration = data.length -1;
     let index = 0;
     function moveZero() {
-        debugger;
         if(index === lastIteration) {
             return data;
         }
