@@ -8,6 +8,7 @@ import binarySearch from './exercises/binarySearch.js';
 import getMaxSum from './exercises/maxSumContiguousSubArr.js';
 import safePath from './exercises/safePath.js';
 import getClock from './exercises/hourglass.js';
+import getSmallestMissing from './exercises/smallestPositiveMissing.js';
 
 console.log(appleStock());
 console.log(equalizeArr());
@@ -19,3 +20,4 @@ console.log(binarySearch());
 console.log(getMaxSum());
 console.log(safePath());
 console.log(getClock());
+console.log(getSmallestMissing());
