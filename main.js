@@ -11,6 +11,7 @@ import getClock from './exercises/hourglass.js';
 import getSmallestMissing from './exercises/smallestPositiveMissing.js';
 import moveZeroesToEnd from './exercises/moveZerosToEnd.js';
 import swapArray from './exercises/minimumSwaps.js';
+import runningMedian from './exercises/runningMedian.js';
 
 console.log(appleStock());
 console.log(equalizeArr());
@@ -25,3 +26,4 @@ console.log(getClock());
 console.log(getSmallestMissing());
 console.log(moveZeroesToEnd());
 console.log(swapArray());
+console.log(runningMedian());
