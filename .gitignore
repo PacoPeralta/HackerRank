@@ -1,0 +1,5 @@
+# Ignore all the webstorm configurations
+.idea
+
+# Ignore the node packages
+node_modules
