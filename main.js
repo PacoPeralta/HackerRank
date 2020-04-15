@@ -1,4 +1,4 @@
-import appleStock from './exercises/appleStock.js';
+import appleStock from './exercises/appleStock/appleStock.js';
 import equalizeArr from './exercises/equalizeArr.js';
 import jumpingClouds from './exercises/clouds.js';
 import mostRepeated from './exercises/repeatedValue.js';

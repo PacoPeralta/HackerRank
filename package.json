@@ -1,0 +1,27 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "HackerRank exercises",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^25.3.0",
+    "webpack": "^4.42.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacoPeralta/HackerRank.git"
+  },
+  "author": "Paco Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacoPeralta/HackerRank/issues"
+  },
+  "homepage": "https://github.com/PacoPeralta/HackerRank#readme"
+}
