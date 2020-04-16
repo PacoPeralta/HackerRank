@@ -3,3 +3,6 @@
 
 # Ignore the node packages
 node_modules
+
+# Ignore the builded files
+dist
